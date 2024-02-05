@@ -10,7 +10,7 @@ Welcome to Project AFER, a venture aimed at advancements in Facial Emotion Detec
 
 [FER2013 - CSV](https://www.kaggle.com/datasets/nicolejyt/facialexpressionrecognition)
 
-[FER2013 - Image Data](https://www.kaggle.com/datasets/nicolejyt/facialexpressionrecognition)
+[FER2013 - Image Data](https://www.kaggle.com/datasets/msambare/fer2013)
 ## Running the Detector
 
 To run the facial emotion detection, use the notebook named `FacialAudioEmotionDetection.ipynb`. Make sure to speak during the recording section, as there may be an issue with empty buffers while processing audio.
