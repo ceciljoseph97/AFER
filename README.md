@@ -24,6 +24,9 @@ conda env create --file environment.yml
 ```
 Activate the environment before running the code:
 ```bash
-onda activate fer
+conda activate fer
 ```
+
+### Remarks
+Installing LFS and enabling it is essential, as there are large files in the repository that necessitate this feature.
 
