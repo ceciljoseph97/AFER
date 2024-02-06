@@ -4,7 +4,7 @@ Welcome to Project AFER, a venture aimed at advancements in Facial Emotion Detec
 
 ## Folder Structure
   
-- **notebooks:** This directory contains all training documents and supporting materials.
+- **Code:** This directory contains all training documents and supporting materials.
 
 ## Data Used
 
