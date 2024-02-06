@@ -16,12 +16,14 @@ Welcome to Project AFER, a venture aimed at advancements in Facial Emotion Detec
 To run the facial emotion detection, use the notebook named `FacialAudioEmotionDetection.ipynb`. Make sure to speak during the recording section, as there may be an issue with empty buffers while processing audio.
 
 ## Installation
-
-To create a new environment with the required packages, use the following command:
+### Anaconda Environment
+This project utilizes an Anaconda environment to manage dependencies and ensure reproducibility. The environment.yml file contains a list of all required packages and their versions. To create the environment, 
 
 ```bash
 conda env create --file environment.yml
 ```
-For any questions or doubts, please refer to the [GitHub](https://github.com/ceciljoseph97/AFER) repository
-
+Activate the environment before running the code:
+```bash
+onda activate fer
+```
 
